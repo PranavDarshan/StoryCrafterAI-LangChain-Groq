@@ -67,8 +67,11 @@ This Django-based web application generates creative stories with accompanying i
     ```
 
 3.  **Set up your Groq API key:**
-    Create a `.env` file in the project root and add your Groq API key:
+    Create a `.env` file in the project root and add your Groq API key, HuggingFace key, Django key:
     ```
+    SECRET_KEY="your_django_key"
+    DEBUG=True
+    HUGGINGFACE_TOKEN="your_huggingface_key"
     GROQ_API_KEY=your_groq_api_key
     ```
 
