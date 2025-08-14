@@ -57,8 +57,8 @@ This Django-based web application generates creative stories with accompanying i
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/creative_story_project.git
-    cd creative_story_project
+    git clone https://github.com/PranavDarshan/StoryCrafterAI-LangChain-Groq.git
+    cd StoryCrafterAI-LangChain-Groq
     ```
 
 2.  **Install dependencies:**
